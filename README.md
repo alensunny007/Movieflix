@@ -1,4 +1,4 @@
-# React + Vite
+A simple movie app which people can view movie and search movies accordingly created with react-vite and appwrite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
