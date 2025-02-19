@@ -1,4 +1,4 @@
-A simple movie app which people can view movie and search movies accordingly created with react-vite and appwrite
+A simple movie app which people can view movie and search movies accordingly created with react-vite and appwrite and with the help of tmdb api
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
